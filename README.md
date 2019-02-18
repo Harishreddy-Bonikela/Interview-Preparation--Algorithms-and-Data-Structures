@@ -1,6 +1,6 @@
 # Interview-Preparation--Algorithms-and-Data-Structures
 
-I chose my give my interviews in JavaScript. 
+I chose to give my interviews in JavaScript. 
 
 Best course i found online for 
                   JS Algorithms - https://frontendmasters.com/courses/practical-algorithms/
