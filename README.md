@@ -14,7 +14,7 @@
    * [Cpp CheatSheet](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md)
 
 ## GitHib Links
-   * [Algorithms and Data Strcutures] (https://github.com/kuychaco/algoClass)
+   * [Algorithms and Data Strcutures](https://github.com/kuychaco/algoClass)
    * [Coding University - jwasham](https://github.com/jwasham/coding-interview-university)
    * [KDN251 Interviews](https://github.com/kdn251/interviews)
    * [Cosmos - Algos Github repo](https://github.com/OpenGenus/cosmos)
