@@ -1,8 +1,8 @@
 # Interview-Preparation--Algorithms-and-Data-Structures
 
 ## JavaScript Courses
-                  JS Algorithms - https://frontendmasters.com/courses/practical-algorithms/<br>
-                  JS Data Structures - https://frontendmasters.com/courses/data-structures-algorithms/
+   * [JS Algorithms] (https://frontendmasters.com/courses/practical-algorithms/)
+   * [JS Data Structures] (https://frontendmasters.com/courses/data-structures-algorithms/)
                   
   #### Articles
    * [How I landed offers from Microsoft, Amazon, and Twitter](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
